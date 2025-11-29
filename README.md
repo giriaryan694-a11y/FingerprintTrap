@@ -27,6 +27,9 @@ A stealthy PHP-based fingerprinting tool to collect visitor data (IP, User-Agent
 ```
 ## 3. Install Dependencies:
    ```
+   sudo apt install php #for kali linux
+   #OR
+   apt install php #for termux
    pip install -r requirements.txt
    ```
 ## 4. Run the Server:
