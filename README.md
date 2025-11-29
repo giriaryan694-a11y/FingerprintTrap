@@ -31,7 +31,7 @@ A stealthy PHP-based fingerprinting tool to collect visitor data (IP, User-Agent
    ```
 ## 4. Run the Server:
    ```
-   python main.py.py
+   python main.py
    ```
    This will start the PHP server and tail `hook_logs.txt` in real-time.
 
@@ -47,7 +47,7 @@ A stealthy PHP-based fingerprinting tool to collect visitor data (IP, User-Agent
 
 ## 1. Start the Server:
    ```
-   python server.py
+   python main.py
    ```
    The server will start at http://127.0.0.1:8000.
 
